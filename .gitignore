@@ -1,0 +1,13 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ/Eclipse/IntelliJ specific files
+*.ctxt
+.project
+.classpath
+.idea/
+*.iml
+.vscode/
